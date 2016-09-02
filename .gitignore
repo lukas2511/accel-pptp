@@ -1,0 +1,5 @@
+obj-x86_64-linux-gnu/
+debian/accel-pptp.debhelper.log
+debian/accel-pptp.substvars
+debian/accel-pptp/
+debian/files
