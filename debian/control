@@ -1,0 +1,11 @@
+Source: accel-pptp
+Section: admin
+Priority: optional
+Maintainer: Lukas Schauer <lukas@schauer.so>
+Build-Depends: debhelper (>= 9), ppp-dev, cmake
+Standards-Version: 3.9.6
+
+Package: accel-pptp
+Architecture: all
+Depends: ${misc:Depends}, ppp (>= 2.4.6)
+Description: PPTP VPN plugin for pppd

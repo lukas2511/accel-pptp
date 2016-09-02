@@ -1,0 +1,9 @@
+Format-Specification: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Name: accel-pptp
+Maintainer: Lukas Schauer <lukas@schauer.so>
+Source: https://github.com/winterheart/accel-pptp
+
+Files: *
+Copyright: 2011 Dmitry Kozlov
+License: GPL-2
+ See /usr/share/common-licenses/GPL-2
